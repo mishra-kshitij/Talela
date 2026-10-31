@@ -67,49 +67,6 @@ tatela-website/
 └── README.md
 ```
 
-## 🚀 Getting Started
-
-You can run the website locally without installing any additional frameworks or dependencies.
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/YOUR-USERNAME/tatela-website.git
-```
-
-**2. Navigate to the project directory**
-
-```bash
-cd tatela-website
-```
-
-**3. Launch the website**
-
-Open `index.html` directly in your browser.
-
-Alternatively, use the Live Server extension in Visual Studio Code for local development.
-
-## 🌐 Deployment
-
-The website can be hosted using GitHub Pages or any static website hosting provider.
-
-**GitHub Pages deployment:**
-
-1. Push the website source files to your GitHub repository.
-2. Navigate to repository Settings.
-3. Open Pages under the Code and automation section.
-4. Select Deploy from a branch.
-5. Choose the `main` branch and `/ (root)` directory.
-6. Save your configuration.
-
-For the custom domain:
-
-- Configure `tatela.in` in the GitHub Pages custom domain settings.
-- Add the DNS records recommended by GitHub.
-- Enable HTTPS once domain verification is complete.
-
-Refer to the [GitHub Pages documentation](https://docs.github.com/en/pages) for deployment instructions.
-
 ## ⚡ Performance & Optimisation
 
 The website incorporates several front-end optimisation practices:
