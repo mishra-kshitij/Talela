@@ -1,0 +1,7 @@
+# Talela - Robots.txt
+
+User-agent: *
+Allow: /
+
+# XML Sitemap
+Sitemap: https://tatela.in/sitemap.xml
